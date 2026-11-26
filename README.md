@@ -2,7 +2,6 @@
 
 Debug Adapter Protocol (DAP) implementation for WinCC OA CTRL debugging.
 
-
 ## Status
 
 🚧 **Initial Setup** - Feature branch `feature/initial_setup`
